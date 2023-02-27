@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="11e487a8-abb3-4a07-b3de-733ce24b8546" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.github/workflows/python-ci.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/python-ci.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="11e487a8-abb3-4a07-b3de-733ce24b8546" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,7 +44,7 @@
       <updated>1675683179622</updated>
       <workItem from="1675683181071" duration="41000" />
       <workItem from="1676289652182" duration="6556000" />
-      <workItem from="1677486262290" duration="675000" />
+      <workItem from="1677486262290" duration="1096000" />
     </task>
     <task id="LOCAL-00001" summary="maj">
       <created>1676291556034</created>
